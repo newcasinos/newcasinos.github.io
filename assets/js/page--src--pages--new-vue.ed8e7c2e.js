@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"+knZ":function(n,t,e){"use strict";e.r(t);var s={metaInfo:{title:"New Casinos"}},a=e("KHd+"),i=Object(a.a)(s,(function(){var n=this.$createElement,t=this._self._c||n;return t("Layout",[t("h1",[this._v("New Casinos")])])}),[],!1,null,null,null);t.default=i.exports}}]);
