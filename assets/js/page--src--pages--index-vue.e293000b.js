@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{LMsC:function(t,e,n){"use strict";n.r(e);var s={metaInfo:{title:"Home"}},o=n("psIG"),l=Object(o.a)(s,(function(){var t=this.$createElement,e=this._self._c||t;return e("Layout",[e("h1",[this._v("Home")]),e("p")])}),[],!1,null,null,null);e.default=l.exports}}]);
